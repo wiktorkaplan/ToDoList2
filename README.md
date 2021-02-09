@@ -2,4 +2,4 @@
 
 Aplikacja zaliczeniowa pozwalająca na tworzenie listy zadań. Utworzona w architekturze MVC przy wykorzystaniu .NET.
 
-![alt wyglad aplikacji](https://photos.google.com/share/AF1QipNdTdIpV1g9hBHwLVSvRiijUSHnAq55ywRgDrvNMhSNZ2XFU3RIKd43iBcksMDm6w/photo/AF1QipMrFNrurrk2W9C1rtxmBACwtujMRVItOSTEeSMa?key=MUN4QjFXR0g1ckQzWTZnMXFCWWM5MXlvMGZKb2ZB)
+![alt wyglad aplikacji](https://lh3.googleusercontent.com/pw/ACtC-3cIaGaFeUlwB75cp3ja51nfyEffmKDW7Rcbk2vYrhWmrydppxcbcQSqp6hqMyyQ5sDk0VWoC4LxIb82QhZhAtEX8_pINDwJuzhtApMq_4Z40p-5MdoKBxUDujzxCvxQ6xU2w-shXSJaqV64Seel3-hPcw=w1175-h521-no)
