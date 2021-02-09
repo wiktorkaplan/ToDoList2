@@ -1,0 +1,214 @@
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\ToDoList2.dll.config
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\ToDoList2.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\ToDoList2.pdb
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\csc.exe
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\csc.exe.config
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\csc.rsp
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\csi.exe
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\csi.exe.config
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\csi.rsp
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.AppContext.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Console.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.IO.Compression.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Security.Claims.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.ValueTuple.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\vbc.exe
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\vbc.exe.config
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\vbc.rsp
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\VBCSCompiler.exe
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Antlr3.Runtime.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\EntityFramework.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\EntityFramework.SqlServer.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Newtonsoft.Json.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Owin.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.Helpers.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.Mvc.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.Optimization.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.Razor.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.WebPages.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.WebPages.Razor.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\WebGrease.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.Helpers.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.Mvc.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.Optimization.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.Razor.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.WebPages.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\System.Web.WebPages.Razor.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Newtonsoft.Json.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Antlr3.Runtime.pdb
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\EntityFramework.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\EntityFramework.SqlServer.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\obj\Debug\ToDoList2.csprojAssemblyReference.cache
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\obj\Debug\ToDoList2.csproj.CoreCompileInputs.cache
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\obj\Debug\ToDoList2.csproj.CopyComplete
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\obj\Debug\ToDoList2.dll
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\obj\Debug\ToDoList2.pdb
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\obj\Debug\ToDoList2.Migrations.ToDo1.resources
+C:\Users\kaplan\source\repos\ToDoList4\ToDoList2\obj\Debug\ToDoList2.csproj.GenerateResource.cache
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\ToDoList2.dll.config
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\ToDoList2.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\ToDoList2.pdb
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\csc.exe
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\csc.exe.config
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\csc.rsp
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\csi.exe
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\csi.exe.config
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\csi.rsp
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.AppContext.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Collections.Immutable.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Console.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.IO.Compression.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.IO.FileSystem.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.IO.Pipes.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Reflection.Metadata.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Security.AccessControl.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Security.Claims.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.ValueTuple.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Xml.XPath.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\vbc.exe
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\vbc.exe.config
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\vbc.rsp
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\VBCSCompiler.exe
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\roslyn\VBCSCompiler.exe.config
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Antlr3.Runtime.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\EntityFramework.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\EntityFramework.SqlServer.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Google.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Web.Infrastructure.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Newtonsoft.Json.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Owin.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.Helpers.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.Mvc.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.Optimization.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.Razor.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.WebPages.Deployment.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.WebPages.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.WebPages.Razor.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\WebGrease.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.Helpers.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.Mvc.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.Optimization.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.Razor.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.WebPages.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.WebPages.Deployment.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\System.Web.WebPages.Razor.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Newtonsoft.Json.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Antlr3.Runtime.pdb
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\EntityFramework.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\EntityFramework.SqlServer.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Google.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\obj\Debug\ToDoList2.csprojAssemblyReference.cache
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\obj\Debug\ToDoList2.Migrations.ToDo1.resources
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\obj\Debug\ToDoList2.csproj.GenerateResource.cache
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\obj\Debug\ToDoList2.csproj.CoreCompileInputs.cache
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\obj\Debug\ToDoList2.csproj.CopyComplete
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\obj\Debug\ToDoList2.dll
+D:\SGGW\V semestr\Architektura Oprogramowania\ARKOOOOOOO\ToDoList4\ToDoList2\obj\Debug\ToDoList2.pdb
