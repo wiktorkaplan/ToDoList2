@@ -1,4 +1,4 @@
-# ToDoList4
+# ToDoList2
 
 Aplikacja zaliczeniowa pozwalająca na tworzenie listy zadań. Utworzona w architekturze MVC przy wykorzystaniu .NET.
 
